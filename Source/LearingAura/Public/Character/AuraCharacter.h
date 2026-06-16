@@ -14,4 +14,5 @@ class LEARINGAURA_API AAuraCharacter : public AAuraCharacterBase
 {
 	GENERATED_BODY()
 	
+	
 };
